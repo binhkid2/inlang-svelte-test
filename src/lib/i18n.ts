@@ -38,6 +38,7 @@ export function getTextDirection(locale: AvailableLanguageTag) {
 	const directions: Record<AvailableLanguageTag, "ltr" | "rtl"> = {
 		en: "ltr",
 		de: "ltr",
+        vn: "ltr"
 	}
 
 	return directions[locale]
