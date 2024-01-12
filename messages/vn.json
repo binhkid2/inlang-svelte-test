@@ -1,0 +1,6 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"currentLanguageTag": "Thẻ ngôn ngữ hiện tại là \"{languageTag}\".",
+	"greeting": "Chào mừng {name}! Bạn có {count} tin nhắn.",
+	"change_language_to": "Thay đổi ngôn ngữ thành {languageTag}"
+}
